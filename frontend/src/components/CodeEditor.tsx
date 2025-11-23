@@ -67,22 +67,6 @@ export function CodeEditor({
                     rulers: [],
                     scrollBeyondLastLine: false,
                     automaticLayout: true,
-                    tabSize: 4,
-                    insertSpaces: true,
-                    wordWrap: "on",
-                    bracketPairColorization: {
-                        enabled: true
-                    },
-                    suggest: {
-                        enabled: true
-                    },
-                    quickSuggestions: {
-                        other: true,
-                        comments: false,
-                        strings: false
-                    }
-                }}
-            />
         </div>
     );
 }
