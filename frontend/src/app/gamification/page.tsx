@@ -8,7 +8,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Loader2, PlayCircle, Trophy } from "lucide-react";
-import { LevelProgressBar } from "@/components/gamification/Level ProgressBar";
+import { LevelProgressBar } from "@/components/gamification/LevelProgressBar";
 import { BadgeDisplay } from "@/components/gamification/BadgeDisplay";
 import { StreakDisplay } from "@/components/gamification/StreakDisplay";
 
